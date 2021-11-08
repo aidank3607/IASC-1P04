@@ -9,5 +9,5 @@ Meet Ellie in this short showcase of Ophelia's concept and mechanics, as you hel
   
 # Playtest Survey
 
-If you played the prototype, consider completing a short questionnaire on the game [here]
+If you played the prototype, consider completing a short questionnaire on the game here.
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=FRGudvwe8kqlNuKyRDrxoIstxjJ3c4ZLoOEkgNkq2GJUMzdITVBUNDhRN0hHOFhURDVWMzg5WFo4Vi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
