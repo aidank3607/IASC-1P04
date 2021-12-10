@@ -2,6 +2,10 @@
 
 School repository 2021-22, website for my Twine game for IASC-1P04 course @ Brock University
 
+# Ophelia (Final Game)
+Discover magical artifacts and beings in an acnient, tucked away forest. Encounter new locations, characters and many QOL improvements from the original prototype! Will you escape by hurting, or will take the extra effort to help a fellow out?
+ [Play Ophelia Here]()
+
 # Ellie (Ophelia Prototype)
 
 Meet Ellie in this short showcase of Ophelia's concept and mechanics, as you help an elf find her trusty squirrel companion. 
